@@ -166,7 +166,7 @@ Feature: User Login Functionality
 ## 👩‍💻 Author
 
 **Pragya Sharma**  
-Software QA Engineer | Automation & BDD Specialist  
+Software QA Engineer 
 
 📧 Email: sharmapragya312@gmail.com  
 🔗 GitHub: [pragyasharmaqa](https://github.com/pragyasharmaqa)
